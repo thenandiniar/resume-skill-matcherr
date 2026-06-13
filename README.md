@@ -2,7 +2,7 @@
 
 # Resume Matcher
 
-[𝙹𝚘𝚒𝚗 𝙳𝚒𝚜𝚌𝚘𝚛𝚍](https://dsc.gg/resume-matcher) ✦ [𝚆𝚎𝚋𝚜𝚒𝚝𝚎](https://resumematcher.fyi) ✦ [𝙷𝚘𝚠 𝚝𝚘 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://resumematcher.fyi/docs/installation) ✦ [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜](#contributors) ✦ [𝚃𝚠𝚒𝚝𝚝𝚎𝚛/𝚇](https://twitter.com/srbhrai) ✦ [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/company/resume-matcher/) ✦ [𝙲𝚛𝚎𝚊𝚝𝚘𝚛](https://srbhr.com)
+ 
 
 Create tailored resumes for each job application with AI-powered suggestions. Works locally with Ollama or connect to your favorite LLM provider via API.
 
@@ -30,14 +30,23 @@ Resume Matcher helps you create a comprehensive master resume that you can use t
 * **Internationalization**: Multi-language UI and content support.
 
 ## About the Creator
+## Team Information
+- **Team Name:** SkillSync
+- **Domain:** Artificial Intelligence / Natural Language Processing (NLP)
+- **Team Members:**
+    - Nandini A R (AIML) 
+    - Sowmya N (CSE)
+    - Keerthana (AIML)
+    - S. G. Harshitha (CSE)
 
-Hi, I'm **Saurabh Rai** ✨. Thank you for checking out Resume Matcher. If you want to connect, collaborate, or just say hi, feel free to reach out!
+## Problem Statement
+Students and job seekers often struggle to understand whether their resumes align with job requirements. Manual screening is time-consuming and may overlook important skill gaps. There is a need for an intelligent system that can automatically analyze resumes and match them with relevant job descriptions.
 
-You can follow me on:
-- Website: [https://srbhr.com](https://srbhr.com)
-- Linkedin: [https://www.linkedin.com/in/srbhr/](https://www.linkedin.com/in/srbhr/)
-- Twitter: [https://twitter.com/srbhrai](https://twitter.com/srbhrai)
-- GitHub: [https://github.com/srbhr](https://github.com/srbhr)
+## Project Description
+Resume Skill Matcher is an AI-based application that compares resumes with job descriptions to identify matching skills, calculate a compatibility score, and highlight missing skills. It helps users improve their resumes and better prepare for placement and recruitment opportunities.
+
+## About the Creator
+Hi, I'm **Nandini A R** ✨. Thank you for checking out Resume Skill Matcher. If you want to connect, collaborate, or just say hi, feel free to reach out!
 
 ## Tech Stack
 
